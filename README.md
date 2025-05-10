@@ -8,17 +8,24 @@ This project is a low-cost, eco-friendly prototype designed to recycle greywater
 
 ## 📸 Project Preview
 
+<table>
+  <tr>
+    <th>🔁 Flow Chart</th>
+    <th>🔧 Prototype</th>
+    <th>🖥️ Circuit Diagram</th>
+    <th>🔲 Block Diagram</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/78de924d-8bf6-4e49-8152-b71f9012bafe" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/34cc1898-1431-4bdd-b230-51e28b173d4b" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/6b8d53c6-f8af-47f7-b430-b3b4ffabe6e4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/72506ff5-72a2-4fac-949d-f09e82d0f3a4" width="200"/></td>
+  </tr>
+</table>
 
-### 🔧 Prototype  
-<img src="https://github.com/user-attachments/assets/34cc1898-1431-4bdd-b230-51e28b173d4b" width="400"/>
+---
 
-### 🖥️ Circuit Diagram  
-<img src="https://github.com/user-attachments/assets/6b8d53c6-f8af-47f7-b430-b3b4ffabe6e4" width="400"/>
-
-### 🔲 Block Diagram  
-<img src="https://github.com/user-attachments/assets/72506ff5-72a2-4fac-949d-f09e82d0f3a4" width="400"/>
-
-> 📽️ Demonstration Video: [Video](https://drive.google.com/file/d/1_MBMi4o9DbmxxGdnWlmdrgPHdOKOdKF7/view?usp=drivesdk)
+## 📽️ Demonstration Video: [Click here](https://drive.google.com/file/d/1_MBMi4o9DbmxxGdnWlmdrgPHdOKOdKF7/view?usp=drivesdk)
 
 ---
 
