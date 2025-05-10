@@ -70,9 +70,17 @@ This project is a low-cost, eco-friendly prototype designed to recycle greywater
 - System operated for 20+ cycles with consistent output  
 - Total cost: ₹1600–1700
 
-> 🧾 See full report: [Project_Report.pdf](documents/Project_Report.pdf)
-
 ---
 
-## 📁 Project Structure
+## 👨‍💻 Authors
+
+- Tejaswi Khandelwal (240674)  
+- Vedansh Mathur (240686)  
+- Sushmita S M (240663)  
+- Tanisha Mittal (240666)  
+- Tanisha (240667)
+
+Mentor: Dr. Hirdesh Kumar Pharasi
+
+---
 
