@@ -27,20 +27,20 @@ We extend our sincere gratitude to our mentor, Dr. Hirdesh Kumar Pharasi, for hi
 
 ---
 
-## Project Preview
+## 📸 Project Preview
 
 <table>
   <tr>
-    <the> Flow Chart</th>
-    <th> Prototype</th>
-    <th> Circuit Diagram</th>
-    <th> Block Diagram</th>
+    <th>Flow Chart</th>
+    <th>Prototype</th>
+    <th>Circuit Diagram</th>
+    <th>Block Diagram</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/78de924d-8bf6-4e49-8152-b71f9012bafe" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/34cc1898-1431-4bdd-b230-51e28b173d4b" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/6b8d53c6-f8af-47f7-b430-b3b4ffabe6e4" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/72506ff5-72a2-4fac-949d-f09e82d0f3a4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/67dc31f7-59cf-4df9-a9dc-c2ed6b79ecac" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/04448fbd-87b7-4792-aa7a-7d94332f7460" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ac8c9056-cd27-4863-abc0-cfc82b85d55e" width="220"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b46489b5-54e8-4eec-bc77-55ec8d8a0bfc" width="220"/></td>
   </tr>
 </table>
 
