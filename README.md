@@ -10,7 +10,8 @@ This project is a low-cost, eco-friendly prototype designed to recycle greywater
 
 | Prototype | Circuit | Block Diagram |
 |----------|---------|---------------|
-| ![Prototype](images/prototype.jpg) | ![Circuit](images/circuit.jpg) | ![Block Diagram](images/block_diagram.jpg) |
+| ![Prototype]
+(![Image](https://github.com/user-attachments/assets/34cc1898-1431-4bdd-b230-51e28b173d4b)) | ![Circuit](images/circuit.jpg) | ![Block Diagram](images/block_diagram.jpg) |
 
 > 📽️ Demo Video: [Watch on YouTube](https://youtu.be/iwkE_HWU-6M)
 
