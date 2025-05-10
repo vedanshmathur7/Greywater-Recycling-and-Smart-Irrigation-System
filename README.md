@@ -1,4 +1,12 @@
-# Greywater Recycling and Smart Irrigation System
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/428d7da6-19e8-4093-95e7-6b528b0e031b" width="220"/></td>
+    <td valign="middle">
+      <h1>Greywater Recycling and Smart Irrigation System</h1>
+      <p>A low-cost, Arduino-powered system that filters greywater using natural materials and automates plant irrigation based on soil moisture.</p>
+    </td>
+  </tr>
+</table>
 
 This project is a low-cost, eco-friendly prototype designed to recycle greywater for plant irrigation using Arduino-based automation. It features a multi-stage natural filtration system and automates watering using a soil moisture sensor, relay module, and submersible pump. The system promotes efficient water usage, making it especially useful in regions with limited access to clean water.
 
