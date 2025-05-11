@@ -63,7 +63,7 @@ We extend our sincere gratitude to our mentor, Dr. Hirdesh Kumar Pharasi, for hi
 - Filters and reuses greywater using natural materials  
 - Automatically waters plants based on soil moisture  
 - Uses Arduino Uno, relay, pump, and soil moisture sensor  
-- Powered via 9V battery or USB power bank  
+- Powered via ~9V battery 
 - Educational, low-cost, and easy to replicate
 
 ---
