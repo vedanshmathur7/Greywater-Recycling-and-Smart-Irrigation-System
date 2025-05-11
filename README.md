@@ -35,7 +35,7 @@ We extend our sincere gratitude to our mentor, Dr. Hirdesh Kumar Pharasi, for hi
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 
 <table>
   <tr>
